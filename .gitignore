@@ -1,0 +1,27 @@
+﻿# Maven target
+target/
+**/target/
+
+# Package files
+*.jar
+*.war
+*.nar
+*.ear
+
+# Maven wrapper jar
+.mvn/wrapper/maven-wrapper.jar
+**/.mvn/wrapper/maven-wrapper.jar
+
+# VS Code & IDEs
+.vscode/
+**/.vscode/
+.idea/
+**/.idea/
+*.iml
+*.iws
+*.ipr
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
