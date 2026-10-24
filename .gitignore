@@ -2,6 +2,12 @@
 target/
 **/target/
 
+# Eclipse & build files
+build/
+**/build/
+.settings/
+**/.settings/
+
 # Package files
 *.jar
 *.war
